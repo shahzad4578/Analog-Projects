@@ -13,7 +13,7 @@ A classic two-stage Operational Transconductance Amplifier (OTA) topology design
 | **Load Capacitance** | 5 pF | **5 pF** |
 
 ## Schematic Design
-*(Make sure you upload your schematic image and name it exactly 'OpAmp_Schematic.jpg')*
+
 ![OpAmp Schematic](OpAmp_Schematic_View.jpg)
 
 ## Simulation Results
